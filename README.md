@@ -4,11 +4,11 @@ A combine of angular-seed and AdminLTE
 
 ##### angular-seed
 
-[angular-seed]: https://github.com/angular/angular-seed
+[angular-seed](https://github.com/angular/angular-seed)
 
 ##### AdminLTE
 
-[AdminLte]: https://github.com/almasaeed2010/AdminLTE
+[AdminLte](https://github.com/almasaeed2010/AdminLTE)
 
 ### Getting Started
 
